@@ -20,7 +20,7 @@ const ProfilePage = () => (
               alt="profile"
               className="profile-pic"
             />
-            <h1 className="user">Amol</h1>
+            <h1 className="user">Durga</h1>
           </li>
         </Link>
         <Link to="/" className="link">
@@ -30,7 +30,7 @@ const ProfilePage = () => (
               alt="profile"
               className="profile-pic"
             />
-            <h1 className="user">Rahul</h1>
+            <h1 className="user">Sukanya</h1>
           </li>
         </Link>
         <Link to="/" className="link">
@@ -40,7 +40,7 @@ const ProfilePage = () => (
               alt="profile"
               className="profile-pic"
             />
-            <h1 className="user">Ram</h1>
+            <h1 className="user">Syam</h1>
           </li>
         </Link>
         <Link to="/" className="link">
